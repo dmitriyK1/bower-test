@@ -1,0 +1,17 @@
+{
+  "name": "bower-dimaroxx",
+  "homepage": "https://github.com/dmitriyK1/bower-test",
+  "authors": [
+    "Dmitriy Kaminskiy <dimaroxx@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
